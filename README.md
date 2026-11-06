@@ -23,14 +23,17 @@ Currently learning and building projects using Python, Django, React.js, and mod
 
 ---
 
-## 🔗 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/SampathHiremath">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <!-- Add your LinkedIn URL here -->
+  <a href="YOUR_PORTFOLIO_URL" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
+
 
 ---
 
